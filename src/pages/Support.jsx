@@ -13,6 +13,8 @@ const SupportSection = () => {
         Talk to our experts. We are available 24/7.
       </p>
 
+
+      
       {/* Contact options */}
       <div className="flex flex-col md:flex-row gap-8 justify-center items-center">
         {/* Indian Nationals */}
