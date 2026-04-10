@@ -9,6 +9,7 @@ const SupportSection = () => {
       <h2 className="text-4xl font-semibold text-black-900 mb-4 text-center">
         AT SCHOOL. IN Learner Support
       </h2>
+      
       <p className="text-gray-600 text-center mb-8">
         Talk to our experts. We are available 24/7.
       </p>
